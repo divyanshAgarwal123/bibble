@@ -1,0 +1,8 @@
+{
+  "head": "8174fbf5815e29a9ed7349210efbee8abbd7e39c",
+  "confirmedCrashes": [
+    "storedMaps.find is not a function",
+    "deletedMapIds.includes is not a function"
+  ],
+  "clearingOnlyBadKeyRecovers": true
+}

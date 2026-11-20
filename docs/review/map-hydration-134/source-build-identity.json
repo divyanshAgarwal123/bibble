@@ -1,0 +1,53 @@
+{
+  "buildId": "H7QDoIv5AAyfqC2_uSK2t",
+  "matchingProductionChunks": [
+    {
+      "file": ".next/static/chunks/1dmaaqth8kwr8.js",
+      "sha256": "59b958222b0cd59df27b8ea4b7ec1a3343bff926491742c9dd815b27864e6d31"
+    },
+    {
+      "file": ".next/static/chunks/160xmkaqe-gjv.js",
+      "sha256": "6010db24556bb4cb365ecb15075562cb755c34993b340d159bc7dcae56460fe4"
+    },
+    {
+      "file": ".next/static/chunks/01aqj3nsv07r3.js",
+      "sha256": "46a0f4cbc5439c3916b1fbfd133629aa8b1538134b7dfa05999d29616286c1f5"
+    },
+    {
+      "file": ".next/static/chunks/3x5-1cd9vuy54.js",
+      "sha256": "924a98607d9cb76118353baec2ec10cfa21abeaef9eee5bfa02070580770e180"
+    },
+    {
+      "file": ".next/static/chunks/2usyf1cd5dbwa.js",
+      "sha256": "74dd0cc74e2d8d1744be9b107094118282b6f9edbd5e729d34533d3b3896ed63"
+    },
+    {
+      "file": ".next/static/chunks/05fn8ro4jn23f.js",
+      "sha256": "40a5513ed187bac4458fa6c1240efa7e919fe61a3c265efb9603e2ce50ff072e"
+    },
+    {
+      "file": ".next/static/chunks/3bau5lnzwurg7.js",
+      "sha256": "92bf4035ee18ca8013ed4dcb8d67c2518195c6f27dc41c90c43f3694117d2894"
+    },
+    {
+      "file": ".next/static/chunks/0lo9qvtzgtbjt.js",
+      "sha256": "18fa18b54d4d5bf1f9b00c32865ba9bdddc68b9cdc5b1bd4c53eb88ed2bb0805"
+    },
+    {
+      "file": ".next/static/chunks/42mlh_z3uw9au.js",
+      "sha256": "3579b875e5d16f26c8c60e5214e475ccfaea0ddada82d6058d3db4045a509f0d"
+    },
+    {
+      "file": ".next/static/chunks/0al9bcok59fv-.js",
+      "sha256": "819243cb952e0cc309131139a1724b3f639c8074e1202f90990362e258f7d1fa"
+    }
+  ],
+  "sourceSha256": {
+    "hooks/use-local-storage.ts": "c19c335c8baab8a4ad8c9074064e0f071ed5bf5958416c2b86beeb07fe67edb4",
+    "lib/maps/local-storage.ts": "9f49f52165ebe445aa4e778ad9675485442827be6aa8cbeef441e955ac6c759b",
+    "lib/maps/local-storage.test.ts": "210b6b45228f395bf6e8189b1eb5da324c5e2d8e222511d06d6d94fe8057c28a",
+    "README.md": "9ad4915d854fde06e3c04491c9aaffb75680f69ac97591208a109c9afb089626"
+  },
+  "ciBuildId": "b424PC7XYsAoFWgvxCfeF",
+  "originalMatchingChunksRetainedInCiBuild": 10
+}

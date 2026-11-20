@@ -1,0 +1,43 @@
+{
+  "pass": true,
+  "reports": [
+    {
+      "mode": "development",
+      "invalidTopLevelAndMalformedCases": 12,
+      "validSiblingAndExtraMetadataPreserved": true,
+      "noHydrationWritesOrDeletes": true,
+      "viewAndEditSameValidation": true,
+      "validDeletedIdStillHidesBothRoutes": true,
+      "existingDeletedSampleLoadingStateUnchanged": true,
+      "explicitSaveWorksAndRetainsMetadata": true,
+      "createAfterRecoveryAndReload": true,
+      "profileStatsUsable": true,
+      "selectiveReadDenialPreservesStorage": true,
+      "nativeKeyboardAndMobile": true,
+      "errors": [],
+      "failed": []
+    },
+    {
+      "mode": "production",
+      "invalidTopLevelAndMalformedCases": 12,
+      "validSiblingAndExtraMetadataPreserved": true,
+      "noHydrationWritesOrDeletes": true,
+      "viewAndEditSameValidation": true,
+      "validDeletedIdStillHidesBothRoutes": true,
+      "existingDeletedSampleLoadingStateUnchanged": true,
+      "explicitSaveWorksAndRetainsMetadata": true,
+      "createAfterRecoveryAndReload": true,
+      "profileStatsUsable": true,
+      "selectiveReadDenialPreservesStorage": true,
+      "nativeKeyboardAndMobile": true,
+      "errors": [],
+      "failed": []
+    }
+  ],
+  "sourceSha256": {
+    "hooks/use-local-storage.ts": "c19c335c8baab8a4ad8c9074064e0f071ed5bf5958416c2b86beeb07fe67edb4",
+    "lib/maps/local-storage.ts": "9f49f52165ebe445aa4e778ad9675485442827be6aa8cbeef441e955ac6c759b",
+    "lib/maps/local-storage.test.ts": "210b6b45228f395bf6e8189b1eb5da324c5e2d8e222511d06d6d94fe8057c28a"
+  },
+  "fixture": "Actual Next development and normal production build. Guest-only server Supabase settings point to localhost:5363 with a dummy public key; client Supabase configuration is absent. No authenticated session or live backend/persistence is asserted. Browser profiles and maps are synthetic. Selective read denial is injected only for that test."
+}

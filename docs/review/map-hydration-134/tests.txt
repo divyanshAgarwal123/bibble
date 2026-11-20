@@ -1,0 +1,23 @@
+
+> bibble@0.1.0 test
+> vitest run
+
+
+ RUN  v3.2.7 /private/tmp/nsoc-bibble134
+
+ ✓ lib/maps/leave-guard.test.ts (4 tests) 2ms
+ ✓ lib/map-shortcuts.test.ts (11 tests) 4ms
+ ✓ lib/room-capacity.test.ts (3 tests) 1ms
+ ✓ lib/maps/save-status.test.ts (6 tests) 2ms
+ ✓ lib/profile.test.ts (14 tests) 3ms
+ ✓ lib/room-filters.test.ts (19 tests) 9ms
+ ✓ lib/auth/validation.test.ts (4 tests) 3ms
+ ✓ lib/maps/local-storage.test.ts (8 tests) 8ms
+ ✓ lib/maps/export-import.test.ts (17 tests) 7ms
+ ✓ lib/maps/persistence.test.ts (2 tests) 3ms
+
+ Test Files  10 passed (10)
+      Tests  88 passed (88)
+   Start at  17:25:02
+   Duration  368ms (transform 221ms, setup 0ms, collect 702ms, tests 43ms, environment 1ms, prepare 541ms)
+
